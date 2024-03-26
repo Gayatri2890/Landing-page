@@ -1,0 +1,33 @@
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Update font-family */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007bff; /* Update background color to a blue shade */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #343a40; /* Update background color to a dark gray shade */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
